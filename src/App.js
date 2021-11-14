@@ -17,7 +17,7 @@ function App() {
   };
 
   return (
-    <Paper elevation={1} style={mystyle} className="cardbg">
+    <Paper elevation={1} style={mystyle}>
       <Grid container spacing={{ xs: 1, md: 3 }} columns={{ xs: 1, sm: 8, md: 12 }}>
         
         <Grid item xs={2} sm={4} md={4}>
